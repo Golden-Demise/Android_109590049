@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Scrolling Text"
+rootProject.name = "109590049_HW3_Scrolling Text"
 include ':app'

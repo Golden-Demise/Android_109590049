@@ -3,8 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/User/Desktop/Android/HW3/2_1/Hello Toast/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/User/Desktop/Android/HW3/2_1/Hello Toast/app/src/main/res/layout/activity_second.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/User/Desktop/Android/HW3/1_3/109590049_HW3_Scrolling Text/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/Android/HW3/1_3/Scrolling Text/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
@@ -13,5 +13,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
   </component>
 </project>
