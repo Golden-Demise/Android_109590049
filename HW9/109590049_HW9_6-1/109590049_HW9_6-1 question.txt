@@ -1,0 +1,8 @@
+1.
+Match a View, perform an action, and assert and verify the result.
+
+2.
+@RunWith and @Test
+
+3.
+onView().check() to check the current View.

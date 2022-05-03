@@ -1,0 +1,4 @@
+#Tue May 03 16:03:08 GMT+08:00 2022
+base.0=C\:\\Users\\User\\Desktop\\Android\\HW9\\109590049_HW9_5-3\\109590049_HW9_RecyclerView\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
